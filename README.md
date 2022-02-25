@@ -1,5 +1,10 @@
 # Perceptron and Adaline
 
+## Prereqs
+- Python3
+- numpy
+- matplotlib
+
 ## Problem 1
 Run the following command:
 ```python
